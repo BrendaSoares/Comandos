@@ -1,0 +1,6 @@
+Criar uma Branch:
+
+git checkout master
+git pull ilegra master
+git checkout -b *Nome da branch*
+

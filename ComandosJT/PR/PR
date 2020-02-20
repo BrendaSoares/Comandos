@@ -1,0 +1,5 @@
+Após o PR for aprovado:
+
+git checkout master
+git pull ilegra master
+git branch -d tema-x

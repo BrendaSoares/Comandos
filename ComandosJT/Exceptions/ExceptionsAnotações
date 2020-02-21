@@ -1,0 +1,18 @@
+
+THROW ! THROWS
+
+THROW = Lança uma exception (Throw new RunTimeException ("Erro"));
+THROWS = Avisa a classe a possibilidade de dar exception, obrigando o metodo que utilizar se preocupar com a Exception.
+ 
+---------------------------------------------------------------------------------------------------------------------------.
+
+Checked Exception:
+	-Você sabe que o erro pode ocorrer, e sabe como tratar. Geralmente é tratado dentro do Catch.
+
+Unchecked Exception:
+	-Um erro que não é esperado, que não tem como tratar. É somente lançado uma exceção com "throw new *exception+Mensagem*";
+
+----------------------------------------------------------------------------------------------------------------------------.
+
+Como boa prática utilizar Exception já utilizadas ao invés de criar uma personalizada!
+	

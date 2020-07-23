@@ -5,7 +5,7 @@ git remote -v (Precisa aparecer origin.. e origin ..)
 git remote add ilegra *link do repositorio (ilegra)*
 git remote -v (Precisa aparecer ilegra ilegra - repositorio original | origin origin - forkado)
 git pull ilegra master (Na master)
-git pul ilegra master (Na Branch)
+git pull ilegra master (Na Branch)
 
 
 
